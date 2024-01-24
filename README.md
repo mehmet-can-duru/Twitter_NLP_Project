@@ -1,2 +1,2 @@
-# NLP_Basic
-Twitter Verileri ile basit bir çalışma
+# NLP
+Twitter Verileri ile hakaret içeren metin tespiti.
